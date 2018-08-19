@@ -4,6 +4,7 @@ from rest_framework.views import APIView
 from django_redis import get_redis_connection
 from rest_framework import serializers
 import random
+from celery_tasks.sms.tasks import sms_send
 from utils.ytx_sdk.sendSMS import CCP
 
 
@@ -22,6 +23,8 @@ class SMSCodeView(APIView):
         redis_pl.setex('sms_flag_' + mobile, 60, 1)
         redis_pl.execute()
 
-        print(sms_code)
+        # CCP.sendTemplateSMS(mobile, sms_code, 5, 1)
+        # print(sms_code)
+        sms_send.delay(mobile, sms_code, 5, 1)
 
         return Response({'message': 'ok'})
