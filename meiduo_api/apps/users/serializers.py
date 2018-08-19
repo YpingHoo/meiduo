@@ -72,6 +72,7 @@ class UserCreateSerializer(serializers.Serializer):
     def validate_allow(self, value):
         if not value:
             raise serializers.ValidationError("请勾选同意协议")
+        return value
 
     def create(self, validated_data):
         user = User()
