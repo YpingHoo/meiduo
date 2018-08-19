@@ -201,8 +201,8 @@ REST_FRAMEWORK = {
 }
 
 CORS_ORIGIN_WHITELIST = (
+    # 'api.meiduo.site:8000',
     'www.meiduo.site:8080',
-    'api.meiduo.site:8000'
 )
 CORS_ALLOW_CREDENTIALS = True  # 允许携带cookie
 

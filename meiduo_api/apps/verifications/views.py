@@ -20,9 +20,8 @@ class SMSCodeView(APIView):
         redis_pl = redis_cli.pipeline()
         redis_pl.setex('sms_code_' + mobile, 300, sms_code)
         redis_pl.setex('sms_flag_' + mobile, 60, 1)
-        redis_pl.ececute()
+        redis_pl.execute()
 
-        # CCP.sendTemplateSMS(mobile, sms_code, 5, 1)
         print(sms_code)
 
         return Response({'message': 'ok'})
