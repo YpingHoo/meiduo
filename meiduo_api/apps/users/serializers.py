@@ -1,5 +1,7 @@
 import re
 from rest_framework import serializers
+from rest_framework_jwt.settings import api_settings
+
 from .models import User
 from django_redis import get_redis_connection
 
@@ -31,6 +33,7 @@ class UserCreateSerializer(serializers.Serializer):
     mobile = serializers.CharField()
     sms_code = serializers.CharField(write_only=True)
     allow = serializers.CharField(write_only=True)
+    token = serializers.CharField(read_only=True)
 
     def validate_username(self, value):
         count = User.objects.filter(username=value).count()
@@ -80,4 +83,11 @@ class UserCreateSerializer(serializers.Serializer):
         user.set_password(validated_data.get('password'))
         user.mobile = validated_data.get('mobile')
         user.save()
+
+        jwt_payload_handler = api_settings.JWT_PAYLOAD_HANDLER
+        jwt_encode_handler = api_settings.JWT_ENCODE_HANDLER
+        payload = jwt_payload_handler(user)
+        token = jwt_encode_handler(payload)
+        user.token = token
+
         return user
