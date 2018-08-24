@@ -1,9 +1,9 @@
 import re
 from rest_framework import serializers
 from rest_framework_jwt.settings import api_settings
-
 from .models import User
 from django_redis import get_redis_connection
+from celery_tasks.email.tasks import send_verify_email
 
 
 class UserCreateSerializer(serializers.Serializer):
@@ -91,3 +91,75 @@ class UserCreateSerializer(serializers.Serializer):
         user.token = token
 
         return user
+
+
+class UserDetailSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = User
+        fields = ['id', 'username', 'mobile', 'email', 'email_active']
+
+
+class EmailSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = User
+        fields = ['id', 'email']
+        extra_kwargs = {
+            'email': {
+                'required': True,
+            }
+        }
+
+    def update(self, instance, validated_data):
+        email = validated_data.get('email')
+        instance.email = email
+        instance.save()
+
+        verify_url = instance.generate_verify_email_url()
+        send_verify_email.delay(email, verify_url)
+
+        return instance
+
+
+class ChangePasswordSerializer(serializers.Serializer):
+    user_id = serializers.IntegerField(read_only=True)
+    password = serializers.CharField(read_only=True,
+                                     min_length=8,
+                                     max_length=20,
+                                     error_messages={
+                                         'min_length': "密码必须8-20个字符",
+                                         'max_length': "密码必须8-20个字符",
+                                     })
+    password1 = serializers.CharField(write_only=True,
+                                      min_length=8,
+                                      max_length=20,
+                                      error_messages={
+                                          'min_length': "密码必须8-20个字符",
+                                          'max_length': "密码必须8-20个字符",
+                                      })
+    password2 = serializers.CharField(write_only=True,
+                                      min_length=8,
+                                      max_length=20,
+                                      error_messages={
+                                          'min_length': "密码必须8-20个字符",
+                                          'max_length': "密码必须8-20个字符",
+                                      })
+
+    def validate(self, attrs):
+        user_id = attrs.get('user_id')
+        password = attrs.get("password")
+        user = User.objects.get(pk=user_id)
+        if not user.check_password(password):
+            raise serializers.ValidationError("原密码错误")
+
+        password1 = attrs.get("password1")
+        password2 = attrs.get("password2")
+        if password1 != password2:
+            raise serializers.ValidationError("新密码两次输入不一致")
+
+        return attrs
+
+    def update(self, instance, validated_data):
+        password = validated_data.get('password1')
+        instance.set_password(password)
+        instance.save()
+        return instance

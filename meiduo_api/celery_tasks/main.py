@@ -10,4 +10,5 @@ app = Celery("meiduo")
 app.config_from_object(config)
 app.autodiscover_tasks([
     'celery_tasks.sms',
+    'celery_tasks.email',
 ])

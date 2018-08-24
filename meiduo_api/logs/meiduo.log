@@ -896,3 +896,227 @@ INFO 2018-08-22 21:30:45,427 basehttp 124 "GET /oauth/qq/authorization/?next=/ H
 INFO 2018-08-22 21:30:52,768 basehttp 124 "GET /oauth/qq/user/?code=A1C70355668C6E4D4A4E7827F1F9442D HTTP/1.1" 200 218
 INFO 2018-08-22 21:53:31,802 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
 INFO 2018-08-22 21:53:54,500 basehttp 124 "GET /oauth/qq/user/?code=7D604F40AFB18CE5A3F58A2C78F2006C HTTP/1.1" 200 190
+INFO 2018-08-24 08:50:28,235 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-24 08:50:31,358 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-24 08:50:32,854 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-24 08:50:33,382 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-24 08:50:33,557 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-24 08:50:43,181 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-24 08:50:45,334 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-24 08:50:46,063 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-24 08:50:46,590 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-24 08:50:47,079 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-24 08:50:47,246 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-24 08:50:47,408 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-24 08:50:54,444 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-24 08:51:05,917 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-24 08:51:41,953 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-24 08:51:53,383 basehttp 124 "GET /oauth/qq/user/?code=1DEA585FA240823E1E04A1AB059BCA21 HTTP/1.1" 200 190
+INFO 2018-08-24 08:52:42,426 basehttp 124 "GET /sms_code/15222641000/ HTTP/1.1" 200 16
+INFO 2018-08-24 08:52:49,829 basehttp 124 "OPTIONS /oauth/qq/user/ HTTP/1.1" 200 0
+INFO 2018-08-24 08:52:49,908 basehttp 124 "POST /oauth/qq/user/ HTTP/1.1" 200 218
+INFO 2018-08-24 08:52:54,480 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+WARNING 2018-08-24 08:52:54,537 base 152 Not Found: /user/
+WARNING 2018-08-24 08:52:54,540 basehttp 124 "GET /user/ HTTP/1.1" 404 2960
+INFO 2018-08-24 14:39:10,090 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+WARNING 2018-08-24 14:39:10,118 base 152 Not Found: /user/
+WARNING 2018-08-24 14:39:10,120 basehttp 124 "GET /user/ HTTP/1.1" 404 2960
+WARNING 2018-08-24 14:39:31,728 base 152 Not Found: /emails/verification/
+WARNING 2018-08-24 14:39:31,730 basehttp 124 "GET /emails/verification/ HTTP/1.1" 404 3005
+WARNING 2018-08-24 14:39:35,108 base 152 Not Found: /emails/verification/
+WARNING 2018-08-24 14:39:35,109 basehttp 124 "GET /emails/verification/ HTTP/1.1" 404 3005
+INFO 2018-08-24 14:41:17,231 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+WARNING 2018-08-24 14:41:17,255 base 152 Not Found: /user/
+WARNING 2018-08-24 14:41:17,265 basehttp 124 "GET /user/ HTTP/1.1" 404 2960
+WARNING 2018-08-24 14:41:30,162 base 152 Not Found: /user/
+WARNING 2018-08-24 14:41:30,162 basehttp 124 "GET /user/ HTTP/1.1" 404 2960
+INFO 2018-08-24 14:57:43,662 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-08-24 14:57:43,685 basehttp 124 "GET /user/ HTTP/1.1" 200 88
+INFO 2018-08-24 14:57:43,692 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+WARNING 2018-08-24 14:57:43,701 base 152 Not Found: /browse_histories/
+WARNING 2018-08-24 14:57:43,703 basehttp 124 "GET /browse_histories/ HTTP/1.1" 404 3151
+INFO 2018-08-24 14:58:15,155 basehttp 124 "GET /oauth/qq/authorization/?next=/user_center_info.html HTTP/1.1" 200 196
+INFO 2018-08-24 14:58:16,797 basehttp 124 "GET /oauth/qq/authorization/?next=/user_center_info.html HTTP/1.1" 200 196
+INFO 2018-08-24 14:58:18,462 basehttp 124 "GET /oauth/qq/authorization/?next=/user_center_info.html HTTP/1.1" 200 196
+INFO 2018-08-24 14:58:26,907 basehttp 124 "GET /oauth/qq/authorization/?next=/user_center_info.html HTTP/1.1" 200 196
+INFO 2018-08-24 14:58:46,977 basehttp 124 "GET /oauth/qq/user/?code=47C608EC30C265B6BB7FF5156FB9743B HTTP/1.1" 200 218
+INFO 2018-08-24 14:58:47,101 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-08-24 14:58:47,143 basehttp 124 "GET /user/ HTTP/1.1" 200 88
+INFO 2018-08-24 14:58:47,154 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+WARNING 2018-08-24 14:58:47,168 base 152 Not Found: /browse_histories/
+WARNING 2018-08-24 14:58:47,168 basehttp 124 "GET /browse_histories/ HTTP/1.1" 404 3151
+INFO 2018-08-24 14:58:56,799 basehttp 124 "GET /user/ HTTP/1.1" 200 88
+WARNING 2018-08-24 14:58:56,836 base 152 Not Found: /browse_histories/
+WARNING 2018-08-24 14:58:56,837 basehttp 124 "GET /browse_histories/ HTTP/1.1" 404 3151
+INFO 2018-08-24 14:59:36,205 basehttp 124 "OPTIONS /emails/ HTTP/1.1" 200 0
+WARNING 2018-08-24 14:59:36,215 base 152 Not Found: /emails/
+WARNING 2018-08-24 14:59:36,216 basehttp 124 "PUT /emails/ HTTP/1.1" 404 3121
+WARNING 2018-08-24 14:59:39,887 base 152 Not Found: /emails/
+WARNING 2018-08-24 14:59:39,889 basehttp 124 "PUT /emails/ HTTP/1.1" 404 3121
+INFO 2018-08-24 14:59:43,459 basehttp 124 "OPTIONS /emails/ HTTP/1.1" 200 0
+WARNING 2018-08-24 14:59:43,465 base 152 Not Found: /emails/
+WARNING 2018-08-24 14:59:43,470 basehttp 124 "PUT /emails/ HTTP/1.1" 404 3121
+INFO 2018-08-24 15:25:06,915 basehttp 124 "OPTIONS /emails/ HTTP/1.1" 200 0
+ERROR 2018-08-24 15:25:07,007 exception 135 Internal Server Error: /emails/
+Traceback (most recent call last):
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/rest_framework/generics.py", line 228, in put
+    return self.update(request, *args, **kwargs)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/rest_framework/mixins.py", line 69, in update
+    serializer.is_valid(raise_exception=True)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/rest_framework/serializers.py", line 236, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/rest_framework/serializers.py", line 434, in run_validation
+    value = self.to_internal_value(data)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/rest_framework/serializers.py", line 482, in to_internal_value
+    fields = self._writable_fields
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/rest_framework/serializers.py", line 370, in _writable_fields
+    field for field in self.fields.values() if not field.read_only
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/rest_framework/serializers.py", line 363, in fields
+    for key, value in self.get_fields().items():
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/rest_framework/serializers.py", line 1019, in get_fields
+    info = model_meta.get_field_info(model)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/rest_framework/utils/model_meta.py", line 35, in get_field_info
+    opts = model._meta.concrete_model._meta
+AttributeError: type object 'UserDetailSerializer' has no attribute '_meta'
+ERROR 2018-08-24 15:25:07,067 basehttp 124 "PUT /emails/ HTTP/1.1" 500 20056
+INFO 2018-08-24 15:27:26,144 basehttp 124 "OPTIONS /emails/ HTTP/1.1" 200 0
+ERROR 2018-08-24 15:27:26,199 exception 135 Internal Server Error: /emails/
+Traceback (most recent call last):
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/rest_framework/generics.py", line 228, in put
+    return self.update(request, *args, **kwargs)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/rest_framework/mixins.py", line 70, in update
+    self.perform_update(serializer)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/rest_framework/mixins.py", line 80, in perform_update
+    serializer.save()
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/rest_framework/serializers.py", line 209, in save
+    self.instance = self.update(self.instance, validated_data)
+  File "/home/python/workspace/Web/Django/meiduo/meiduo_api/apps/users/serializers.py", line 117, in update
+    verify_url = instance.generate_verify_email_url()
+  File "/home/python/workspace/Web/Django/meiduo/meiduo_api/apps/users/models.py", line 22, in generate_verify_email_url
+    verify_url = 'http://www.meiduo.site:8080/success_verify_email.html?token=' + token
+TypeError: Can't convert 'bytes' object to str implicitly
+ERROR 2018-08-24 15:27:26,229 basehttp 124 "PUT /emails/ HTTP/1.1" 500 19260
+WARNING 2018-08-24 15:27:49,036 base 152 Not Found: /emails/verification/
+WARNING 2018-08-24 15:27:49,040 basehttp 124 "GET /emails/verification/?token= HTTP/1.1" 404 3324
+WARNING 2018-08-24 15:27:49,080 base 152 Not Found: /emails/verification/
+WARNING 2018-08-24 15:27:49,082 basehttp 124 "GET /emails/verification/?token= HTTP/1.1" 404 3324
+INFO 2018-08-24 15:28:14,399 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-08-24 15:28:14,426 basehttp 124 "GET /user/ HTTP/1.1" 200 104
+INFO 2018-08-24 15:28:14,437 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+WARNING 2018-08-24 15:28:14,456 base 152 Not Found: /browse_histories/
+WARNING 2018-08-24 15:28:14,457 basehttp 124 "GET /browse_histories/ HTTP/1.1" 404 3308
+INFO 2018-08-24 15:29:40,585 basehttp 124 "OPTIONS /emails/ HTTP/1.1" 200 0
+INFO 2018-08-24 15:29:40,694 basehttp 124 "PUT /emails/ HTTP/1.1" 200 35
+INFO 2018-08-24 15:37:12,373 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-08-24 15:37:12,460 basehttp 124 "GET /user/ HTTP/1.1" 200 104
+INFO 2018-08-24 15:37:12,500 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+WARNING 2018-08-24 15:37:12,515 base 152 Not Found: /browse_histories/
+WARNING 2018-08-24 15:37:12,527 basehttp 124 "GET /browse_histories/ HTTP/1.1" 404 3308
+INFO 2018-08-24 15:37:17,972 basehttp 124 "OPTIONS /emails/ HTTP/1.1" 200 0
+INFO 2018-08-24 15:37:18,023 basehttp 124 "PUT /emails/ HTTP/1.1" 200 35
+INFO 2018-08-24 15:38:39,747 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-08-24 15:38:39,812 basehttp 124 "GET /user/ HTTP/1.1" 200 104
+INFO 2018-08-24 15:38:39,844 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+WARNING 2018-08-24 15:38:39,872 base 152 Not Found: /browse_histories/
+WARNING 2018-08-24 15:38:39,899 basehttp 124 "GET /browse_histories/ HTTP/1.1" 404 3308
+INFO 2018-08-24 15:38:40,871 basehttp 124 "OPTIONS /emails/ HTTP/1.1" 200 0
+INFO 2018-08-24 15:38:40,971 basehttp 124 "PUT /emails/ HTTP/1.1" 200 35
+INFO 2018-08-24 15:47:42,614 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-08-24 15:47:42,681 basehttp 124 "GET /user/ HTTP/1.1" 200 104
+INFO 2018-08-24 15:47:42,700 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+WARNING 2018-08-24 15:47:42,722 base 152 Not Found: /browse_histories/
+WARNING 2018-08-24 15:47:42,724 basehttp 124 "GET /browse_histories/ HTTP/1.1" 404 3308
+INFO 2018-08-24 15:47:46,161 basehttp 124 "PUT /emails/ HTTP/1.1" 200 35
+INFO 2018-08-24 15:58:00,955 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-08-24 15:58:01,006 basehttp 124 "GET /user/ HTTP/1.1" 200 104
+INFO 2018-08-24 15:58:01,030 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+WARNING 2018-08-24 15:58:01,040 base 152 Not Found: /browse_histories/
+WARNING 2018-08-24 15:58:01,043 basehttp 124 "GET /browse_histories/ HTTP/1.1" 404 3308
+INFO 2018-08-24 15:58:03,694 basehttp 124 "OPTIONS /emails/ HTTP/1.1" 200 0
+INFO 2018-08-24 15:58:03,750 basehttp 124 "PUT /emails/ HTTP/1.1" 200 35
+INFO 2018-08-24 15:59:50,068 basehttp 124 "GET /user/ HTTP/1.1" 200 104
+WARNING 2018-08-24 15:59:50,110 base 152 Not Found: /browse_histories/
+WARNING 2018-08-24 15:59:50,110 basehttp 124 "GET /browse_histories/ HTTP/1.1" 404 3308
+INFO 2018-08-24 16:00:16,073 basehttp 124 "OPTIONS /addresses/ HTTP/1.1" 200 0
+WARNING 2018-08-24 16:00:16,081 base 152 Not Found: /areas/
+WARNING 2018-08-24 16:00:16,082 basehttp 124 "GET /areas/ HTTP/1.1" 404 3275
+WARNING 2018-08-24 16:00:16,130 base 152 Not Found: /addresses/
+WARNING 2018-08-24 16:00:16,131 basehttp 124 "GET /addresses/ HTTP/1.1" 404 3287
+INFO 2018-08-24 16:00:21,420 basehttp 124 "GET /user/ HTTP/1.1" 200 104
+WARNING 2018-08-24 16:00:21,441 base 152 Not Found: /browse_histories/
+WARNING 2018-08-24 16:00:21,447 basehttp 124 "GET /browse_histories/ HTTP/1.1" 404 3308
+INFO 2018-08-24 16:00:52,919 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+WARNING 2018-08-24 16:00:52,960 basehttp 124 "POST /authorizations/ HTTP/1.1" 400 67
+INFO 2018-08-24 16:00:58,660 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 218
+INFO 2018-08-24 16:01:02,063 basehttp 124 "GET /user/ HTTP/1.1" 200 88
+WARNING 2018-08-24 16:01:02,105 base 152 Not Found: /browse_histories/
+WARNING 2018-08-24 16:01:02,106 basehttp 124 "GET /browse_histories/ HTTP/1.1" 404 3308
+INFO 2018-08-24 16:01:12,867 basehttp 124 "PUT /emails/ HTTP/1.1" 200 36
+INFO 2018-08-24 16:03:20,997 basehttp 124 "GET /user/ HTTP/1.1" 200 105
+WARNING 2018-08-24 16:03:21,019 base 152 Not Found: /browse_histories/
+WARNING 2018-08-24 16:03:21,022 basehttp 124 "GET /browse_histories/ HTTP/1.1" 404 3308
+WARNING 2018-08-24 16:04:41,563 base 152 Not Found: /emails/verification/
+WARNING 2018-08-24 16:04:41,601 basehttp 124 "GET /emails/verification/?token=eyJleHAiOjE1MzUxODM4ODMsImFsZyI6IkhTMjU2IiwiaWF0IjoxNTM1MDk3NDgzfQ.eyJlbWFpbCI6InlwaW5naG9vQDE2My5jb20iLCJ1c2VyX2lkIjo2fQ.NGogbrQO7h0xOohq-jpE-Yixhsj-zUXeB5XeYQXkiGA HTTP/1.1" 404 3489
+INFO 2018-08-24 16:17:43,845 basehttp 124 "GET /emails/verification/?token=eyJleHAiOjE1MzUxODM4ODMsImFsZyI6IkhTMjU2IiwiaWF0IjoxNTM1MDk3NDgzfQ.eyJlbWFpbCI6InlwaW5naG9vQDE2My5jb20iLCJ1c2VyX2lkIjo2fQ.NGogbrQO7h0xOohq-jpE-Yixhsj-zUXeB5XeYQXkiGA HTTP/1.1" 200 16
+INFO 2018-08-24 16:17:48,052 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-08-24 16:17:48,149 basehttp 124 "GET /user/ HTTP/1.1" 200 105
+INFO 2018-08-24 16:17:48,163 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+WARNING 2018-08-24 16:17:48,183 base 152 Not Found: /browse_histories/
+WARNING 2018-08-24 16:17:48,184 basehttp 124 "GET /browse_histories/ HTTP/1.1" 404 3478
+INFO 2018-08-24 16:17:50,646 basehttp 124 "GET /user/ HTTP/1.1" 200 105
+WARNING 2018-08-24 16:17:50,663 base 152 Not Found: /browse_histories/
+WARNING 2018-08-24 16:17:50,664 basehttp 124 "GET /browse_histories/ HTTP/1.1" 404 3478
+INFO 2018-08-24 16:17:54,243 basehttp 124 "OPTIONS /emails/ HTTP/1.1" 200 0
+INFO 2018-08-24 16:17:54,344 basehttp 124 "PUT /emails/ HTTP/1.1" 200 36
+INFO 2018-08-24 16:18:34,918 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-24 16:18:46,362 basehttp 124 "GET /oauth/qq/user/?code=86722CCF3AD167D3CB6216B06CEB99F8 HTTP/1.1" 200 240
+INFO 2018-08-24 16:18:48,202 basehttp 124 "GET /user/ HTTP/1.1" 200 103
+WARNING 2018-08-24 16:18:48,248 base 152 Not Found: /browse_histories/
+WARNING 2018-08-24 16:18:48,250 basehttp 124 "GET /browse_histories/ HTTP/1.1" 404 3478
+INFO 2018-08-24 16:18:55,104 basehttp 124 "GET /user/ HTTP/1.1" 200 103
+WARNING 2018-08-24 16:18:55,126 base 152 Not Found: /browse_histories/
+WARNING 2018-08-24 16:18:55,128 basehttp 124 "GET /browse_histories/ HTTP/1.1" 404 3478
+INFO 2018-08-24 16:40:22,727 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-08-24 16:40:22,815 basehttp 124 "GET /user/ HTTP/1.1" 200 103
+INFO 2018-08-24 16:40:22,833 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+WARNING 2018-08-24 16:40:22,860 base 152 Not Found: /browse_histories/
+WARNING 2018-08-24 16:40:22,861 basehttp 124 "GET /browse_histories/ HTTP/1.1" 404 3478
+WARNING 2018-08-24 17:10:29,387 base 152 Not Found: /areas/
+INFO 2018-08-24 17:10:29,387 basehttp 124 "OPTIONS /addresses/ HTTP/1.1" 200 0
+WARNING 2018-08-24 17:10:29,393 base 152 Not Found: /addresses/
+WARNING 2018-08-24 17:10:29,416 basehttp 124 "GET /addresses/ HTTP/1.1" 404 3457
+WARNING 2018-08-24 17:10:29,419 basehttp 124 "GET /areas/ HTTP/1.1" 404 3445
