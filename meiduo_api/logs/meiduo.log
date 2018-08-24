@@ -607,3 +607,292 @@ WARNING 2018-08-21 21:32:30,318 base 152 Not Found: /oauth/qq/authorization/
 WARNING 2018-08-21 21:32:30,320 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 404 2914
 WARNING 2018-08-21 21:32:31,749 base 152 Not Found: /oauth/qq/authorization/
 WARNING 2018-08-21 21:32:31,751 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 404 2914
+WARNING 2018-08-22 15:36:30,015 base 152 Not Found: /oauth/qq/authorization/
+WARNING 2018-08-22 15:36:30,017 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 404 2914
+WARNING 2018-08-22 15:36:31,253 base 152 Not Found: /oauth/qq/authorization/
+WARNING 2018-08-22 15:36:31,254 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 404 2914
+WARNING 2018-08-22 15:36:32,550 base 152 Not Found: /oauth/qq/authorization/
+WARNING 2018-08-22 15:36:32,550 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 404 2914
+WARNING 2018-08-22 15:36:32,713 base 152 Not Found: /oauth/qq/authorization/
+WARNING 2018-08-22 15:36:32,713 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 404 2914
+WARNING 2018-08-22 15:36:32,869 base 152 Not Found: /oauth/qq/authorization/
+WARNING 2018-08-22 15:36:32,871 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 404 2914
+WARNING 2018-08-22 15:36:33,014 base 152 Not Found: /oauth/qq/authorization/
+WARNING 2018-08-22 15:36:33,014 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 404 2914
+WARNING 2018-08-22 15:36:33,138 base 152 Not Found: /oauth/qq/authorization/
+WARNING 2018-08-22 15:36:33,140 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 404 2914
+INFO 2018-08-22 15:38:43,176 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 15:38:45,124 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 15:38:45,579 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 15:38:45,733 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 15:38:45,891 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 15:38:46,052 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 15:38:46,211 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 15:38:46,355 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 15:38:46,485 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 15:38:46,633 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 15:38:46,766 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 15:38:46,913 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 15:38:47,141 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 15:38:50,141 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 15:39:03,582 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 15:39:10,345 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 15:39:59,875 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 15:40:23,269 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+WARNING 2018-08-22 16:02:00,857 base 152 Not Found: /oauth/qq/user/
+WARNING 2018-08-22 16:02:00,859 basehttp 124 "GET /oauth/qq/user/?code=3798FBC4958748AE2C056ED2D04944B9 HTTP/1.1" 404 3091
+INFO 2018-08-22 16:28:14,641 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+WARNING 2018-08-22 16:28:30,736 base 152 Not Found: /oauth/qq/user/
+WARNING 2018-08-22 16:28:30,739 basehttp 124 "GET /oauth/qq/user/?code=39C9F5F5329074D0BC508695EE3D4554 HTTP/1.1" 404 3091
+WARNING 2018-08-22 16:28:46,588 base 152 Not Found: /oauth/qq/user/
+WARNING 2018-08-22 16:28:46,589 basehttp 124 "GET /oauth/qq/user/?code=null HTTP/1.1" 404 3063
+WARNING 2018-08-22 16:29:17,004 base 152 Not Found: /oauth/qq/user/
+WARNING 2018-08-22 16:29:17,014 basehttp 124 "GET /oauth/qq/user/?code=null HTTP/1.1" 404 3063
+WARNING 2018-08-22 16:31:11,159 base 152 Not Found: /oauth/qq/user/
+WARNING 2018-08-22 16:31:11,160 basehttp 124 "GET /oauth/qq/user/?code=null HTTP/1.1" 404 3063
+WARNING 2018-08-22 16:31:14,151 base 152 Not Found: /oauth/qq/user/
+WARNING 2018-08-22 16:31:14,152 basehttp 124 "GET /oauth/qq/user/?code=null HTTP/1.1" 404 3063
+WARNING 2018-08-22 16:31:16,503 base 152 Not Found: /oauth/qq/user/
+WARNING 2018-08-22 16:31:16,505 basehttp 124 "GET /oauth/qq/user/?code=null HTTP/1.1" 404 3063
+WARNING 2018-08-22 16:31:20,408 base 152 Not Found: /oauth/qq/user/
+WARNING 2018-08-22 16:31:20,409 basehttp 124 "GET /oauth/qq/user/?code=null HTTP/1.1" 404 3063
+INFO 2018-08-22 16:36:00,786 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+WARNING 2018-08-22 16:36:32,344 base 152 Not Found: /oauth/qq/user/
+WARNING 2018-08-22 16:36:32,358 basehttp 124 "GET /oauth/qq/user/?code=51661928D47A2816706D89ED857FB3CD HTTP/1.1" 404 3091
+WARNING 2018-08-22 17:28:26,720 base 152 Not Found: /oauth/qq/user/
+WARNING 2018-08-22 17:28:26,728 basehttp 124 "GET /oauth/qq/user/?code=51661928D47A2816706D89ED857FB3CD HTTP/1.1" 404 3091
+WARNING 2018-08-22 19:23:14,782 base 152 Not Found: /oauth/qq/user/
+WARNING 2018-08-22 19:23:14,786 basehttp 124 "GET /oauth/qq/user/?code=null HTTP/1.1" 404 3063
+INFO 2018-08-22 19:23:27,231 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 19:23:29,311 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 19:23:40,600 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+WARNING 2018-08-22 19:23:59,917 base 152 Not Found: /oauth/qq/user/
+WARNING 2018-08-22 19:23:59,918 basehttp 124 "GET /oauth/qq/user/?code=9C28D8E5B7732BA87FA05F28D0AF11D3 HTTP/1.1" 404 3091
+INFO 2018-08-22 19:24:33,611 basehttp 124 "GET /oauth/qq/user/?code=9C28D8E5B7732BA87FA05F28D0AF11D3 HTTP/1.1" 200 150
+INFO 2018-08-22 19:25:26,506 basehttp 124 "GET /sms_code/15222641000/ HTTP/1.1" 200 16
+INFO 2018-08-22 19:26:53,291 basehttp 124 "OPTIONS /oauth/qq/user/ HTTP/1.1" 200 0
+WARNING 2018-08-22 19:26:53,312 basehttp 124 "POST /oauth/qq/user/ HTTP/1.1" 405 46
+WARNING 2018-08-22 19:26:55,306 basehttp 124 "POST /oauth/qq/user/ HTTP/1.1" 405 46
+WARNING 2018-08-22 19:26:56,394 basehttp 124 "POST /oauth/qq/user/ HTTP/1.1" 405 46
+INFO 2018-08-22 19:57:12,531 basehttp 124 "GET /sms_code/15222641000/ HTTP/1.1" 200 16
+INFO 2018-08-22 19:57:24,989 basehttp 124 "OPTIONS /oauth/qq/user/ HTTP/1.1" 200 0
+WARNING 2018-08-22 19:57:25,008 basehttp 124 "POST /oauth/qq/user/ HTTP/1.1" 400 46
+INFO 2018-08-22 19:57:31,358 basehttp 124 "OPTIONS /oauth/qq/user/ HTTP/1.1" 200 0
+WARNING 2018-08-22 19:57:31,376 basehttp 124 "POST /oauth/qq/user/ HTTP/1.1" 400 46
+ERROR 2018-08-22 19:57:58,909 basehttp 124 "GET /oauth/qq/user/?code=9C28D8E5B7732BA87FA05F28D0AF11D3 HTTP/1.1" 503 28
+INFO 2018-08-22 19:58:11,464 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 19:58:31,549 basehttp 124 "GET /oauth/qq/user/?code=E794297DD49EB84E1A26C3B3CE09A3EE HTTP/1.1" 200 150
+INFO 2018-08-22 19:58:42,249 basehttp 124 "GET /sms_code/15222641000/ HTTP/1.1" 200 16
+WARNING 2018-08-22 19:58:49,216 basehttp 124 "POST /oauth/qq/user/ HTTP/1.1" 400 46
+INFO 2018-08-22 19:58:54,802 basehttp 124 "OPTIONS /oauth/qq/user/ HTTP/1.1" 200 0
+WARNING 2018-08-22 19:58:54,811 basehttp 124 "POST /oauth/qq/user/ HTTP/1.1" 400 46
+INFO 2018-08-22 19:59:38,475 basehttp 124 "OPTIONS /oauth/qq/user/ HTTP/1.1" 200 0
+WARNING 2018-08-22 19:59:38,482 basehttp 124 "POST /oauth/qq/user/ HTTP/1.1" 400 46
+INFO 2018-08-22 20:00:13,073 basehttp 124 "GET /sms_code/15222641000/ HTTP/1.1" 200 16
+INFO 2018-08-22 20:00:35,861 basehttp 124 "OPTIONS /oauth/qq/user/ HTTP/1.1" 200 0
+WARNING 2018-08-22 20:00:35,889 basehttp 124 "POST /oauth/qq/user/ HTTP/1.1" 400 46
+INFO 2018-08-22 20:03:57,602 basehttp 124 "GET /sms_code/15222641000/ HTTP/1.1" 200 16
+INFO 2018-08-22 20:04:06,396 basehttp 124 "OPTIONS /oauth/qq/user/ HTTP/1.1" 200 0
+WARNING 2018-08-22 20:04:06,429 basehttp 124 "POST /oauth/qq/user/ HTTP/1.1" 400 46
+INFO 2018-08-22 20:04:27,233 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 20:04:41,518 basehttp 124 "GET /oauth/qq/user/?code=850F52FE540207582260B030AA792A51 HTTP/1.1" 200 150
+INFO 2018-08-22 20:04:51,034 basehttp 124 "GET /sms_code/15222641027/ HTTP/1.1" 200 16
+WARNING 2018-08-22 20:04:57,935 basehttp 124 "POST /oauth/qq/user/ HTTP/1.1" 400 46
+INFO 2018-08-22 20:05:03,040 basehttp 124 "OPTIONS /oauth/qq/user/ HTTP/1.1" 200 0
+WARNING 2018-08-22 20:05:03,050 basehttp 124 "POST /oauth/qq/user/ HTTP/1.1" 400 46
+INFO 2018-08-22 20:05:53,836 basehttp 124 "GET /sms_code/15222641027/ HTTP/1.1" 200 16
+INFO 2018-08-22 20:06:04,444 basehttp 124 "OPTIONS /oauth/qq/user/ HTTP/1.1" 200 0
+WARNING 2018-08-22 20:06:04,482 basehttp 124 "POST /oauth/qq/user/ HTTP/1.1" 400 46
+INFO 2018-08-22 20:07:48,160 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 20:07:59,222 basehttp 124 "GET /oauth/qq/user/?code=01702BEBDD1F3B550B8EE7F42F7724FF HTTP/1.1" 200 150
+INFO 2018-08-22 20:08:04,517 basehttp 124 "GET /sms_code/15222641027/ HTTP/1.1" 200 16
+INFO 2018-08-22 20:08:14,620 basehttp 124 "OPTIONS /oauth/qq/user/ HTTP/1.1" 200 0
+WARNING 2018-08-22 20:08:14,625 basehttp 124 "POST /oauth/qq/user/ HTTP/1.1" 400 46
+INFO 2018-08-22 20:09:11,132 basehttp 124 "GET /sms_code/15222641027/ HTTP/1.1" 200 16
+INFO 2018-08-22 20:09:20,411 basehttp 124 "OPTIONS /oauth/qq/user/ HTTP/1.1" 200 0
+ERROR 2018-08-22 20:09:20,432 exception 135 Internal Server Error: /oauth/qq/user/
+Traceback (most recent call last):
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/python/workspace/Web/Django/meiduo/meiduo_api/apps/oauth/views.py", line 60, in post
+    serializer.is_valid(raise_exception=True)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/rest_framework/serializers.py", line 236, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/rest_framework/serializers.py", line 437, in run_validation
+    value = self.validate(value)
+  File "/home/python/workspace/Web/Django/meiduo/meiduo_api/apps/oauth/serializers.py", line 36, in validate
+    print("解密" + openid)
+TypeError: Can't convert 'NoneType' object to str implicitly
+ERROR 2018-08-22 20:09:20,501 basehttp 124 "POST /oauth/qq/user/ HTTP/1.1" 500 18706
+INFO 2018-08-22 20:10:18,049 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+ERROR 2018-08-22 20:10:22,776 exception 135 Internal Server Error: /oauth/qq/user/
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/urllib/request.py", line 1254, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1106, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python3.5/http/client.py", line 1151, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python3.5/http/client.py", line 1102, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python3.5/http/client.py", line 934, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.5/http/client.py", line 877, in send
+    self.connect()
+  File "/usr/lib/python3.5/http/client.py", line 1252, in connect
+    super().connect()
+  File "/usr/lib/python3.5/http/client.py", line 849, in connect
+    (self.host,self.port), self.timeout, self.source_address)
+  File "/usr/lib/python3.5/socket.py", line 693, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/usr/lib/python3.5/socket.py", line 732, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/python/workspace/Web/Django/meiduo/meiduo_api/apps/oauth/views.py", line 31, in get
+    access_token = oauth.get_access_token(code)
+  File "/home/python/workspace/Web/Django/meiduo/meiduo_api/apps/oauth/utils.py", line 45, in get_access_token
+    response = urlopen(url)
+  File "/usr/lib/python3.5/urllib/request.py", line 163, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+    '_open', req)
+  File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.5/urllib/request.py", line 1297, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno -3] Temporary failure in name resolution>
+ERROR 2018-08-22 20:10:22,840 basehttp 124 "GET /oauth/qq/user/?code=01702BEBDD1F3B550B8EE7F42F7724FF HTTP/1.1" 500 20365
+INFO 2018-08-22 20:10:28,760 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 20:10:29,168 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 20:10:37,959 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 20:11:22,614 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 20:11:33,891 basehttp 124 "GET /oauth/qq/user/?code=49E1A712F700DB21168AD7FD04179B54 HTTP/1.1" 200 150
+INFO 2018-08-22 20:11:41,581 basehttp 124 "GET /sms_code/15222641027/ HTTP/1.1" 200 16
+INFO 2018-08-22 20:11:51,750 basehttp 124 "OPTIONS /oauth/qq/user/ HTTP/1.1" 200 0
+WARNING 2018-08-22 20:11:51,758 basehttp 124 "POST /oauth/qq/user/ HTTP/1.1" 400 46
+INFO 2018-08-22 20:15:17,969 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 20:15:27,419 basehttp 124 "GET /oauth/qq/user/?code=78245B8DB804B129C60F7CCAF57877EE HTTP/1.1" 200 150
+INFO 2018-08-22 20:18:19,331 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 20:18:27,465 basehttp 124 "GET /oauth/qq/user/?code=3EC079866D4249FC0E306F0B73EFFBB7 HTTP/1.1" 200 150
+INFO 2018-08-22 20:18:40,891 basehttp 124 "GET /sms_code/15222641027/ HTTP/1.1" 200 16
+INFO 2018-08-22 20:18:48,581 basehttp 124 "OPTIONS /oauth/qq/user/ HTTP/1.1" 200 0
+WARNING 2018-08-22 20:18:48,588 basehttp 124 "POST /oauth/qq/user/ HTTP/1.1" 400 46
+INFO 2018-08-22 20:57:28,769 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 20:57:49,479 basehttp 124 "GET /oauth/qq/user/?code=6FD9C40FC18FBA2778E9AEE67D02AEC6 HTTP/1.1" 200 150
+INFO 2018-08-22 20:58:27,326 basehttp 124 "GET /sms_code/15222641027/ HTTP/1.1" 200 16
+INFO 2018-08-22 20:58:33,742 basehttp 124 "OPTIONS /oauth/qq/user/ HTTP/1.1" 200 0
+WARNING 2018-08-22 20:58:33,749 basehttp 124 "POST /oauth/qq/user/ HTTP/1.1" 400 46
+INFO 2018-08-22 21:00:16,677 basehttp 124 "GET /sms_code/15222641027/ HTTP/1.1" 200 16
+WARNING 2018-08-22 21:00:24,714 basehttp 124 "POST /oauth/qq/user/ HTTP/1.1" 400 46
+WARNING 2018-08-22 21:00:25,617 basehttp 124 "POST /oauth/qq/user/ HTTP/1.1" 400 46
+INFO 2018-08-22 21:10:04,826 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 21:10:22,041 basehttp 124 "GET /oauth/qq/user/?code=D120781D296B89115754CBDF0E6F5A02 HTTP/1.1" 200 150
+INFO 2018-08-22 21:11:27,664 basehttp 124 "GET /sms_code/15222641027/ HTTP/1.1" 200 16
+INFO 2018-08-22 21:11:37,259 basehttp 124 "OPTIONS /oauth/qq/user/ HTTP/1.1" 200 0
+WARNING 2018-08-22 21:11:37,268 basehttp 124 "POST /oauth/qq/user/ HTTP/1.1" 400 46
+INFO 2018-08-22 21:14:28,088 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 21:14:36,502 basehttp 124 "GET /oauth/qq/user/?code=870099322E79BEC7387AF36F3155B055 HTTP/1.1" 200 150
+INFO 2018-08-22 21:15:34,850 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 21:15:47,164 basehttp 124 "GET /oauth/qq/user/?code=7DBDA8E502F299B13FD590D6238B2727 HTTP/1.1" 200 150
+INFO 2018-08-22 21:17:19,005 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 21:17:34,793 basehttp 124 "GET /oauth/qq/user/?code=A9695D5B1665D2C2109C1B82FBC48AAE HTTP/1.1" 200 190
+INFO 2018-08-22 21:18:17,848 basehttp 124 "GET /sms_code/15222641027/ HTTP/1.1" 200 16
+INFO 2018-08-22 21:19:01,628 basehttp 124 "OPTIONS /oauth/qq/user/ HTTP/1.1" 200 0
+ERROR 2018-08-22 21:19:01,701 exception 135 Internal Server Error: /oauth/qq/user/
+Traceback (most recent call last):
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/rest_framework/views.py", line 485, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/rest_framework/views.py", line 400, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'dict'>`
+ERROR 2018-08-22 21:19:01,768 basehttp 124 "POST /oauth/qq/user/ HTTP/1.1" 500 88342
+INFO 2018-08-22 21:19:08,470 basehttp 124 "OPTIONS /oauth/qq/user/ HTTP/1.1" 200 0
+ERROR 2018-08-22 21:19:08,620 exception 135 Internal Server Error: /oauth/qq/user/
+Traceback (most recent call last):
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/rest_framework/views.py", line 485, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/python/.virtualenvs/py3_django/lib/python3.5/site-packages/rest_framework/views.py", line 400, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'dict'>`
+ERROR 2018-08-22 21:19:08,698 basehttp 124 "POST /oauth/qq/user/ HTTP/1.1" 500 88603
+INFO 2018-08-22 21:20:18,570 basehttp 124 "GET /sms_code/15222641027/ HTTP/1.1" 200 16
+INFO 2018-08-22 21:20:25,729 basehttp 124 "OPTIONS /oauth/qq/user/ HTTP/1.1" 200 0
+INFO 2018-08-22 21:20:25,855 basehttp 124 "POST /oauth/qq/user/ HTTP/1.1" 200 218
+INFO 2018-08-22 21:22:58,077 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 21:23:07,881 basehttp 124 "GET /oauth/qq/user/?code=0C850514D13C617A1F12199AA6481AB7 HTTP/1.1" 200 190
+INFO 2018-08-22 21:23:18,308 basehttp 124 "GET /sms_code/15222641027/ HTTP/1.1" 200 16
+WARNING 2018-08-22 21:23:54,958 basehttp 124 "POST /oauth/qq/user/ HTTP/1.1" 400 37
+WARNING 2018-08-22 21:24:03,864 basehttp 124 "POST /oauth/qq/user/ HTTP/1.1" 400 37
+INFO 2018-08-22 21:24:12,928 basehttp 124 "OPTIONS /oauth/qq/user/ HTTP/1.1" 200 0
+WARNING 2018-08-22 21:24:13,057 basehttp 124 "POST /oauth/qq/user/ HTTP/1.1" 400 37
+INFO 2018-08-22 21:24:33,826 basehttp 124 "OPTIONS /oauth/qq/user/ HTTP/1.1" 200 0
+WARNING 2018-08-22 21:24:33,909 basehttp 124 "POST /oauth/qq/user/ HTTP/1.1" 400 37
+INFO 2018-08-22 21:25:55,208 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 21:25:57,397 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 21:26:36,525 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 21:26:45,375 basehttp 124 "GET /oauth/qq/user/?code=73D55D7F7D56AE6810AEFC41046D7DD6 HTTP/1.1" 200 190
+INFO 2018-08-22 21:26:51,295 basehttp 124 "GET /sms_code/15222641027/ HTTP/1.1" 200 16
+INFO 2018-08-22 21:27:00,319 basehttp 124 "OPTIONS /oauth/qq/user/ HTTP/1.1" 200 0
+INFO 2018-08-22 21:27:00,418 basehttp 124 "POST /oauth/qq/user/ HTTP/1.1" 200 218
+INFO 2018-08-22 21:30:45,427 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 21:30:52,768 basehttp 124 "GET /oauth/qq/user/?code=A1C70355668C6E4D4A4E7827F1F9442D HTTP/1.1" 200 218
+INFO 2018-08-22 21:53:31,802 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-08-22 21:53:54,500 basehttp 124 "GET /oauth/qq/user/?code=7D604F40AFB18CE5A3F58A2C78F2006C HTTP/1.1" 200 190
